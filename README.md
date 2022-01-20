@@ -1,4 +1,4 @@
-<h1 align="center">URL Shortner</h1>
+<h1 align="center">SCREEN RECORDER</h1>
 
 #### Simple Program to record Screen
 
