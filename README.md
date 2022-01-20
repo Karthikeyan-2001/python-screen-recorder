@@ -1,6 +1,6 @@
 <h1 align="center">URL Shortner</h1>
 
-#### It records the computer screen. 
+#### Simple Program to record Screen
 
 ---------------------------------------------------------------------
 
